@@ -9,21 +9,21 @@ function Projects() {
           title="Vibe Commerce – Full-Stack Cart App"
           description="Built a modular e-commerce cart system using React (frontend) and Express + MongoDB (backend). Features include quantity control, state syncing, REST APIs, and clean UI."
           techs={['react', 'nodedotjs', 'express', 'mongodb']}
-          repo="https://github.com/yourusername/vibe-commerce"
+          repo="https://github.com/Golden-Presto/vibe-commerce"
         />
 
         <ProjectCard
           title="YelpCamp – Full-Stack Campground App"
           description="Developed a full-stack app with user authentication, campground listings, and reviews. Focused on clean UI and robust validation."
           techs={['nodedotjs', 'express', 'mongodb', 'ejs']}
-          repo="https://github.com/yourusername/yelpcamp"
+          repo="https://github.com/Golden-Presto/YelpCamp"
         />
 
         <ProjectCard
           title="React Calendar Component"
           description="Designed a reusable calendar component using React, with clean UI and basic interactivity. Focused on modular structure and recruiter-friendly presentation."
           techs={['react', 'javascript', 'css']}
-          repo="https://github.com/yourusername/react-calendar-component"
+          repo="https://github.com/Golden-Presto/calendar"
         />
         <ProjectCard
           title="ToDo List – React DnD"

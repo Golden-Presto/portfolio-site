@@ -7,13 +7,13 @@ function Contact() {
       </p>
       <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
         <li>
-          <strong>Email:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
+          <strong>Email:</strong> <a href="mailto:homagni.bhattacharjee.fiem.ece19@teamfuture.in">homagni.bhattacharjee.fiem.ece19@teamfuture.in</a>
         </li>
         <li>
-          <strong>GitHub:</strong> <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">github.com/yourusername</a>
+          <strong>GitHub:</strong> <a href="https://github.com/Golden-Presto" target="_blank" rel="noopener noreferrer">Golden-Presto</a>
         </li>
         <li>
-          <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">linkedin.com/in/yourprofile</a>
+          <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/homagni/" target="_blank" rel="noopener noreferrer">Homagni Bhattacharjee</a>
         </li>
       </ul>
     </section>
