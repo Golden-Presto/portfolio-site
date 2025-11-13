@@ -8,7 +8,7 @@ function Resume() {
       </p>
       <p>
         <a
-          href="/resume.pdf"
+          href="/portfolio-site/resume.pdf"
           download
           style={{
             display: 'inline-block',
