@@ -10,11 +10,11 @@ function About() {
       </p>
       <h3>Skills</h3>
       <ul>
-        <li>HTML, CSS (working on responsiveness)</li>
-        <li>JavaScript, React (useState, useEffect)</li>
+        <li>HTML, CSS, JavaScript, React</li>
         <li>Node.js, Express, MongoDB</li>
-        <li>EJS, PHP (learned during virtual banking project)</li>
-        <li>Rapid adaptation to tools like Figma, Tailwind CSS, Copilot</li>
+        <li>EJS, PHP</li>
+        <li>Figma, Tailwind CSS, Copilot</li>
+        <li>Fast adaptation to new tools and workflows</li>
       </ul>
       <h3>Development Style</h3>
       <ul>
